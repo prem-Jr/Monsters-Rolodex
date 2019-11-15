@@ -2,7 +2,7 @@
   "name": "monters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Prem-jr.github.io/monsters",
+  "homepage": "https://prem-Jr.github.io/monsters",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
